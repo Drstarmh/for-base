@@ -1,0 +1,5 @@
+When over 60% of DEX volume comes from automated systems, a manual trader
+who spots a signal and takes 40 seconds to act is no longer trading in the same market conditions they observed.
+By the time they execute, bots have already reacted, prices have adjusted, 
+and the opportunity window has shifted — meaning their perceived window (what they see on X)
+and their actual execution window (when their tx lands) are fundamentally disconnected.
