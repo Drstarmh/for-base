@@ -1,0 +1,8 @@
+Terminals and DEX aggregators solve the data problem — they display prices,
+charts,
+liquidity,
+and routes — but they do not solve the context problem. The signal still originates on social media (X, Telegram, Discord),
+and the trader must manually leave that environment, open a terminal or aggregator, paste the contract address, and then execute.
+The core failure is architectural:
+data aggregation is not the same as execution within the signal feed — which is what AGNT Hub aims to solve.
+
