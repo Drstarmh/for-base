@@ -1,0 +1,5 @@
+integrate Aerodrome DEX for swaps on Base
+Implements swap functions using Aerodrome's pool router
+Adds liquidity provision and removal for Aerodrome pairs
+
+Fetches pool reserves and calculates expected output amounts, Supports both volatile and stable pool types on Base
