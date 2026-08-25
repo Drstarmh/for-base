@@ -1,0 +1,6 @@
+implement Basename (ENS on Base) resolution
+Resolves .base.eth names to wallet addresses on Base, Reverse resolves wallet addresses to Basename domains
+
+Uses Base's official Basename registry and resolver contracts
+
+Caches resolved names locally to reduce RPC queries
