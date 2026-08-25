@@ -1,0 +1,8 @@
+add Moonwell lending protocol integration on Base
+Supplies assets to Moonwell's isolated lending markets
+
+Implements borrow logic with collateral factor validation
+
+Fetches market health and liquidation thresholds
+
+Supports native ETH and major stablecoins (USDC, DAI)
