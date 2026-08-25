@@ -1,0 +1,8 @@
+add Base chain network configuration and RPC setup
+Configures Base mainnet chain ID (8453) and native ETH token
+
+Sets up public RPC endpoints and fallback providers
+
+Adds Base-specific block explorer URLs (basescan.org)
+
+Includes testnet (Base Sepolia) configuration for development
