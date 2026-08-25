@@ -1,0 +1,8 @@
+Base native USDC bridging via Coinbase Bridge
+Bridges USDC from Ethereum mainnet to Base using standard bridge
+
+Implements deposit and withdrawal functions with wait times
+
+Tracks bridge transaction status and finality confirmations
+
+Handles fee estimation and gas optimization for L2 transactions
